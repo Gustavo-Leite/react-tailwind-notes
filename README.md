@@ -1,6 +1,6 @@
-## Notes
+## Notes App
 
-### Desenvolvi uma aplicação de Notas durante a semana do evento NLW da Rocketseat, utilizando a ferramenta de construção Vite. Para criar esta aplicação, empreguei uma variedade de tecnologias modernas, incluindo React, Radix-UI, Tailwind e TypeScript.
+### I developed a Notes application during the week of Rocketseat's NLW event, using the Vite build tool. To create this application, I employed a variety of modern technologies, including React, Radix-UI, Tailwind and TypeScript.
 
 #
 
